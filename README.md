@@ -1,3 +1,3 @@
 # DJdj Development
 
-Soon™
+readme file is somewhere else 😄
