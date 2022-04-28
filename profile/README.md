@@ -24,3 +24,12 @@ Our first successful project was open-ticket!
 Website: https://www.dj-dj.be
 
 Discord: https://discord.com/invite/26vT9wt3n3
+
+### some projects:
+Open Ticket: https://www.github.com/DJj123dj/open-ticket
+
+Dcubes: comming soon
+
+Minebot: comming soon
+
+**Other projects are on the website**
