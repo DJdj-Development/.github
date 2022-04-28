@@ -1,2 +1,3 @@
-# .github
-Just the github repo
+# DJdj Development
+
+Soon™
