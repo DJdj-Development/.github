@@ -22,4 +22,5 @@ Our first successful project was open-ticket!
 
 ## information
 Website: https://www.dj-dj.be
+
 Discord: https://discord.com/invite/26vT9wt3n3
