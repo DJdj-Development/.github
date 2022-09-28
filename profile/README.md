@@ -1,35 +1,33 @@
 # DJdj Development
-## who are we
-We are a small group of people that build cool stuff (mostly discord related) for many uses.
-Our first successful project was open-ticket!
-## what languages do we write
-- JavaScript
-- Python
-- TypeScript
-- Lua
-- Swift (a little bit)
-- Applescript
-- HTML & CSS
+<img src="https://www.dj-dj.be/wp-content/uploads/2022/09/logo-cropped.png" alt="Logo DJdj Development" style="height: 150px;"/>
 
-## you can ask us for
-- discord bots (with 24/7 hosting)
-- node.js projects
-- python projects
-- computercraft apps
+## About us
+Hi, we are DJdj Development and we make discord bots, node.js apps & more. Our goal is to create qualitative content for open and closed source projects. We love to experiment with new things.
+
+## What can you ask us for?
+- node.js apps
+- discord bots
+- html, css & Javascript
+- websites
+- roblox games
+- minecraft server support
+- computercraft
 - electron apps
-- html & css
-- and a lot more...
+- tailwind css
+- Arduino 
+- Applescript
+& more!
 
 ## information
-Website: https://www.dj-dj.be
+Our Website: [www.dj-dj.be](https://www.dj-dj.be)</br>
+Our Discord server: [discord.dj-dj.be](https://discord.dj-dj.be)</br>
+And more: [youtube](https://youtube.dj-dj.be) - [twitter](https://twitter.dj-dj.be) - [instagram](https://instagram.dj-dj.be)
 
-Discord: https://discord.com/invite/26vT9wt3n3
+Email: support@dj-dj.be
 
-### some projects:
-Open Ticket: https://www.github.com/DJj123dj/open-ticket
+## Some of our current projects:
+Most of our projects are hosted on the account of DJj123dj & others are still private!
 
-Dcubes: comming soon
+Current projects: [Open Ticket](https://openticket.dj-dj.be) - [CPU temperature](https://www.dj-dj.be/cpu-temp) - [Smartschool desktop (still private)](https://www.dj-dj.be/projects/smartschool-desktop)
 
-Minebot: comming soon
-
-**Other projects are on the website**
+Comming soon: Dcubes - Minebot - Open Moderation - Open Modmail & more!
