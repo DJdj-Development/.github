@@ -1,8 +1,7 @@
-# DJdj Development
 <img src="https://www.dj-dj.be/wp-content/uploads/2022/09/logo-cropped.png" alt="Logo DJdj Development" style="height: 150px;"/>
 
 ## About us
-Hi, we are DJdj Development and we make discord bots, node.js apps & more. Our goal is to create qualitative content for open and closed source projects. We love to experiment with new things.
+Hi, we are DJdj Development and we create discord bots, node.js apps & other cool tech stuff! Our goal is to create qualitative content for open and closed source projects. We know a wide range of tools and we love to help starting developers!
 
 ## What can you ask us for?
 - node.js apps
